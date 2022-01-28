@@ -3,7 +3,7 @@
 
 ## Description
 
-We will build a web chat application using HTML, CSS, JavaScript, NodeJS, Express, Socket.IO (Web Sockets).[LIVE](https://realtimewebchatapp.herokuapp.com/)
+We will build a web chat application using HTML, CSS, JavaScript, NodeJS, Express, Socket.IO (Web Sockets). [LIVE](https://realtimewebchatapp.herokuapp.com/)
 
 ![Demo](Demo.gif)
 
